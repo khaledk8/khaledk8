@@ -1,8 +1,16 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Front End web technologies, right now I'm focusing on Vanilla JavaScript and REACT
+
+Some of the designs that I have worked on:
+[Landing Page](https://khaledk8.github.io/landing-page/)
+
+📫 How to reach me:
+Email: khalidkari1@gmail.com
+Phone: +965 50568815
 <!--
 **khaledk8/khaledk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[GitHub Pages](https://pages.github.com/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
