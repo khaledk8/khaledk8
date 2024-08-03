@@ -9,7 +9,7 @@ Some of the designs that I have worked on: <br/>
 [Tic-Tac-Toe](https://khaledk8.github.io/tic-tac-toe/) <br/>
 [Library](https://khaledk8.github.io/library/) <br/>
 [Admin Page](https://khaledk8.github.io/admin-page/) <br/>
-[Signup Page](https://khaledk8.github.io/signup-form/) ### Responsive <br/>
+[Signup Page](https://khaledk8.github.io/signup-form/) Responsive <br/>
 [Simple Calculator](https://khaledk8.github.io/simple-calculator/) <br/>
 [Etch a Sketch](https://khaledk8.github.io/etch-a-sketch/) <br/>
 
