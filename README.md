@@ -2,8 +2,19 @@
 
 🌱 I’m currently learning Front End web technologies, right now I'm focusing on Vanilla JavaScript and REACT
 
-Some of the designs that I have worked on:
-[Landing Page](https://khaledk8.github.io/landing-page/)
+Some of the designs that I have worked on: <br/>
+[Landing Page](https://khaledk8.github.io/landing-page/) <br/>
+[Rock Paper Sciessors](https://khaledk8.github.io/rock-paper/) <br/>
+[Restaurant Page](https://khaledk8.github.io/restaurant-page/) <br/>
+[Tic-Tac-Toe](https://khaledk8.github.io/tic-tac-toe/) <br/>
+[Library](https://khaledk8.github.io/library/) <br/>
+[Admin Page](https://khaledk8.github.io/admin-page/) <br/>
+[Signup Page](https://khaledk8.github.io/signup-form/) ### Responsive <br/>
+[Simple Calculator](https://khaledk8.github.io/simple-calculator/) <br/>
+[Etch a Sketch](https://khaledk8.github.io/etch-a-sketch/) <br/>
+
+
+
 
 📫 How to reach me:
 Email: khalidkari1@gmail.com
